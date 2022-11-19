@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "ant-design-vue": "^3.2.15",
-    "vue": "^3.2.41"
+    "vue": "^3.2.41",
+    "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
